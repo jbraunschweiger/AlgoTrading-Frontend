@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AlgoTrading-Frontend/precache-manifest.72472c1196fd00ede01ad857d5038e5a.js"
+  "/AlgoTrading-Frontend/precache-manifest.eb325e5df034d985b6f15060f01f6a49.js"
 );
 
 self.addEventListener('message', (event) => {
