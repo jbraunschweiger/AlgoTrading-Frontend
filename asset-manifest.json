@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AlgoTrading-Frontend/static/css/main.5f361e03.chunk.css",
+    "main.js": "/AlgoTrading-Frontend/static/js/main.9e75bead.chunk.js",
+    "main.js.map": "/AlgoTrading-Frontend/static/js/main.9e75bead.chunk.js.map",
+    "runtime-main.js": "/AlgoTrading-Frontend/static/js/runtime-main.53520e89.js",
+    "runtime-main.js.map": "/AlgoTrading-Frontend/static/js/runtime-main.53520e89.js.map",
+    "static/js/2.0e1542fe.chunk.js": "/AlgoTrading-Frontend/static/js/2.0e1542fe.chunk.js",
+    "static/js/2.0e1542fe.chunk.js.map": "/AlgoTrading-Frontend/static/js/2.0e1542fe.chunk.js.map",
+    "index.html": "/AlgoTrading-Frontend/index.html",
+    "precache-manifest.72472c1196fd00ede01ad857d5038e5a.js": "/AlgoTrading-Frontend/precache-manifest.72472c1196fd00ede01ad857d5038e5a.js",
+    "service-worker.js": "/AlgoTrading-Frontend/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/AlgoTrading-Frontend/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0e1542fe.chunk.js.LICENSE.txt": "/AlgoTrading-Frontend/static/js/2.0e1542fe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AlgoTrading-Frontend/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53520e89.js",
+    "static/js/2.0e1542fe.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9e75bead.chunk.js"
+  ]
+}
