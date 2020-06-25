@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2125b2d4596b8484988638395e7bc513",
+    "revision": "92ccd792297b0ef92c721930fc262229",
     "url": "/AlgoTrading-Frontend/index.html"
   },
   {
-    "revision": "c32d325cab3211b09b01",
+    "revision": "92d3e8e4833a7792bb41",
     "url": "/AlgoTrading-Frontend/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AlgoTrading-Frontend/static/js/2.0e1542fe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c32d325cab3211b09b01",
-    "url": "/AlgoTrading-Frontend/static/js/main.9e75bead.chunk.js"
+    "revision": "92d3e8e4833a7792bb41",
+    "url": "/AlgoTrading-Frontend/static/js/main.d6dfa090.chunk.js"
   },
   {
     "revision": "cf7d64e1f12035bc4b2c",
